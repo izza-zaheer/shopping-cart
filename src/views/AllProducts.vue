@@ -28,7 +28,7 @@ export default {
   },
   methods:{
     AddNewButton(){
-      alert("add called")
+      alert("In Progress....")
     }
   },
 
